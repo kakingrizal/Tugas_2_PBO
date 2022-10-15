@@ -16,4 +16,6 @@ public class Tugas2PBORizal {
 //    7) Mengisikan nilai untuk attribute
 //    8) Menampilkan nilai yang telah diisikan
     
+// 4. untuk no 4 nya ada di class handphone atau file handphone.java
+    
 }
